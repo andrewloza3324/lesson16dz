@@ -1,0 +1,33 @@
+.header{
+    background-color: aqua;
+    text-transform: uppercase;
+    width: 800px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Montserrat;
+}
+.body{
+    text-transform: uppercase;
+    width: 800px;
+    font-size: 30px;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    font-family:Montserrat ;
+}
+.footer{
+    width: 800px;
+    font-size: 30px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: Montserrat;
+}
+.ev{
+    border-radius: 5px;
+    width: 800px;
+    border: 2px solid black;
+}
